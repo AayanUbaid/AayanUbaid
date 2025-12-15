@@ -5,20 +5,40 @@
 🌱 **About Me:**
 Transitioning from Front-End to Back-End, I am currently focused on **mastering Python and Object-Oriented Programming (OOP)** to architect robust, data-driven projects.
 <br>
-🔭 **What I'm building now:** [Link to your main Python project/repo]
+🔭 **What I'm building now:** https://github.com/AayanUbaid/Hacking-the-Fender.git
 <br>
-💡 **Looking to collaborate on:** Open-source projects using Python/HTML,CSS and JS.
+💡 **Looking to collaborate on:** Open-source **Python** projects, or full-stack web projects utilizing my **Front-End** foundation.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aayan Ubaid) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aayan__ubaid) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aayan Ubaid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aayanubaid50@gmail.com) 
+### 💻 Core Tech Stack
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AayanUbaid&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AayanUbaid&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AayanUbaid&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+| Frontend | Backend & Languages | Tools & Platforms |
+| :---: | :---: | :---: |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Object-Oriented Programming](https://img.shields.io/badge/Concept-OOP-993399?style=for-the-badge&logo=knowledgebase&logoColor=white) | ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) | ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |
+
+---
+
+### 🌐 Connect with Me
+
+| Platform | Link |
+| :---: | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayan-ubaid-97181129b/) |
+| **Facebook** | [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aayan.ubaid.1) |
+<br>
+📫 How to reach me: **aayanubaid50@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AayanUbaid&theme=prussian&hide_border=false&include_all_commits=false&count_private=false" alt="Aayan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AayanUbaid&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Aayan's Top Languages"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AayanUbaid&theme=prussian&hide_border=false" alt="Aayan's GitHub Streak"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AayanUbaid&icon=0&color=0)](https://visitcount.itsvg.in)
